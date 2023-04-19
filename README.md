@@ -3,8 +3,8 @@ URL- https://buildfrontendfortreasurehunt.netlify.app/
 
 # Admin Credentials
 
-User name - Admin
-Password - Admin
+1) User name - Admin
+2) Password - Admin
 
 
 # Ways to Solve Puzzle
