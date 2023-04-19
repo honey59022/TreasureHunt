@@ -1,6 +1,12 @@
 # TreasureHunt
 URL- https://buildfrontendfortreasurehunt.netlify.app/
 
+# Admin Credentials
+
+User name - Admin
+Password - Admin
+
+
 # Ways to Solve Puzzle
 
 # Coins 
