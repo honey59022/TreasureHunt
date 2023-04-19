@@ -1,0 +1,25 @@
+{
+  "name": "treasurehuntgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "npm install",
+    "build": "npm build"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14 <15"
+  }
+}
